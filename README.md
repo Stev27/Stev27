@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ... Git, PHP, Python, HTML, CSS, Bash scripting, Cyberseguridad. 
+
 <!--
 **Stev27/Stev27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
