@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning ... Git, PHP, Python, HTML, CSS, Bash scripting, Cyberseguridad. 
 
+
+
 <!--
 **Stev27/Stev27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- probando desde linux git y github que se tenia configurado 6/07/2024 partido de Colombia vs Peru 
+
 -->
